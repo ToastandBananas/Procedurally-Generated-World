@@ -1,0 +1,2 @@
+# Procedurally-Generated-World
+ Adapted from Sabastian Lague's tutorial. This 3D procedural generation asset will be a good start for any future projects that use procedural generation and can be easily incorporated into a 2D world. (Note: While this project only has 3D functionality, I had a 2D project in mind while following Sabastian's tutorials and therefore, the map is rotated to be viewable in 2D. So if using this for a 3D project, be sure to change the rotations within the code and the prefabs themselves.)
